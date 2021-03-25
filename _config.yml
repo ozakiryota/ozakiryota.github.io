@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: Who is Ryota OZAKI?
+github:
+  is_project_page: false
+description:
+  <a href= "https://forms.gle/YhKBErhBd8Qm8pt46" target="_blank" ><font color="white">[Contact Me]</font></a>
+  <a href= "https://github.com/ozakiryota" target="_blank" ><font color="white">[GitHub]</font></a>
+buttons:
+  btn1_url: https://github.com/UsergeTeam/Userge
+  btn1_title: Main Repository
